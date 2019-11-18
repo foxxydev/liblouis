@@ -8,7 +8,7 @@
 #+grade:2
 #+direction:forward
 #
-#-has-nocross: yes
+#-has-nocross always: yes
 
 #  Copyright (C) 2018 SBS Schweizerische Bibliothek für Blinde, Seh- und Lesebehinderte
 #
